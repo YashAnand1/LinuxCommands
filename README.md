@@ -3,6 +3,7 @@
 code .  
 opens vs code in the current directory
 
+go build -o = for building go code with a new name = go build -o <name/code> <name.go>
 
 rm -rf
 
